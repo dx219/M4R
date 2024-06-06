@@ -1,2 +1,2 @@
 # M4R
-an exploration for Energy-Based Models
+An exploration for Energy-Based Models
